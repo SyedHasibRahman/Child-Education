@@ -1,0 +1,8 @@
+ .logo{
+     height: 30px;
+ }
+.menu-item{
+    color: aliceblue;
+    text-decoration: none;
+    border: 2px solid transparent;
+}
